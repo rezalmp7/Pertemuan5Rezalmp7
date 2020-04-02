@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cobaPertemuan5</string>
+    <string name="list">
+        - Sering-seringlah mencuci tangan dengan sabun dan air selama 20 detik hingga bersih.\n\n
+        - Hindari menyentuh wajah, hidung, atau mulut saat tangan dalam keadaan kotor atau belum dicuci.\n\n
+        - Hindari kontak langsung atau berdekatan dengan orang yang sakit.\n\n
+        - Hindari menyentuh hewan atau unggas liar.\n\n
+        - Membersihkan dan mensterilkan permukaan benda yang sering digunakan.\n\n
+        - Tutup hidung dan mulut ketika bersin atau batuk dengan tisu. Kemudian, buanglah tisu dan cuci tangan hingga bersih.\n\n
+        - Jangan keluar rumah dalam keadaan sakit.\n\n
+        - Kenakan masker dan segera berobat ke fasilitas kesehatan ketika mengalami gejala penyakit saluran napas.\n\n
+    </string>
+</resources>
