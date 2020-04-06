@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         btnMoveActivity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent (MainActivity.this, Corona.class);
+                Intent intent = new Intent (MainActivity.this, CoronaActivity.class);
                 startActivity(intent);
             }
         });
@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
         btnMoveActivity1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent pencegahan = new Intent(MainActivity.this, Pencegahan.class);
-                startActivity(pencegahan);
+                Intent prevention = new Intent(MainActivity.this, PencegahanActivity.class);
+                startActivity(prevention);
             }
         });
 
